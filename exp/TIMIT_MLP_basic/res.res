@@ -1,0 +1,25 @@
+ep=00 tr=['TIMIT_tr'] loss=3.368 err=0.719 valid=TIMIT_dev loss=2.269 err=0.593 lr_architecture1=0.08 time(s)=51
+ep=01 tr=['TIMIT_tr'] loss=2.123 err=0.568 valid=TIMIT_dev loss=1.991 err=0.542 lr_architecture1=0.08 time(s)=42
+ep=02 tr=['TIMIT_tr'] loss=1.883 err=0.522 valid=TIMIT_dev loss=1.873 err=0.515 lr_architecture1=0.08 time(s)=48
+ep=03 tr=['TIMIT_tr'] loss=1.741 err=0.492 valid=TIMIT_dev loss=1.821 err=0.504 lr_architecture1=0.08 time(s)=49
+ep=04 tr=['TIMIT_tr'] loss=1.634 err=0.469 valid=TIMIT_dev loss=1.779 err=0.493 lr_architecture1=0.08 time(s)=49
+ep=05 tr=['TIMIT_tr'] loss=1.553 err=0.451 valid=TIMIT_dev loss=1.754 err=0.485 lr_architecture1=0.08 time(s)=49
+ep=06 tr=['TIMIT_tr'] loss=1.480 err=0.435 valid=TIMIT_dev loss=1.742 err=0.485 lr_architecture1=0.08 time(s)=49
+ep=07 tr=['TIMIT_tr'] loss=1.360 err=0.405 valid=TIMIT_dev loss=1.670 err=0.465 lr_architecture1=0.04 time(s)=49
+ep=08 tr=['TIMIT_tr'] loss=1.305 err=0.392 valid=TIMIT_dev loss=1.658 err=0.462 lr_architecture1=0.04 time(s)=49
+ep=09 tr=['TIMIT_tr'] loss=1.273 err=0.384 valid=TIMIT_dev loss=1.663 err=0.459 lr_architecture1=0.04 time(s)=49
+ep=10 tr=['TIMIT_tr'] loss=1.241 err=0.377 valid=TIMIT_dev loss=1.676 err=0.460 lr_architecture1=0.04 time(s)=50
+ep=11 tr=['TIMIT_tr'] loss=1.178 err=0.360 valid=TIMIT_dev loss=1.633 err=0.453 lr_architecture1=0.02 time(s)=49
+ep=12 tr=['TIMIT_tr'] loss=1.147 err=0.352 valid=TIMIT_dev loss=1.641 err=0.452 lr_architecture1=0.02 time(s)=49
+ep=13 tr=['TIMIT_tr'] loss=1.112 err=0.342 valid=TIMIT_dev loss=1.623 err=0.448 lr_architecture1=0.01 time(s)=49
+ep=14 tr=['TIMIT_tr'] loss=1.098 err=0.339 valid=TIMIT_dev loss=1.624 err=0.446 lr_architecture1=0.01 time(s)=50
+ep=15 tr=['TIMIT_tr'] loss=1.085 err=0.336 valid=TIMIT_dev loss=1.625 err=0.446 lr_architecture1=0.01 time(s)=50
+ep=16 tr=['TIMIT_tr'] loss=1.066 err=0.330 valid=TIMIT_dev loss=1.622 err=0.445 lr_architecture1=0.005 time(s)=49
+ep=17 tr=['TIMIT_tr'] loss=1.058 err=0.328 valid=TIMIT_dev loss=1.621 err=0.445 lr_architecture1=0.005 time(s)=49
+ep=18 tr=['TIMIT_tr'] loss=1.048 err=0.325 valid=TIMIT_dev loss=1.619 err=0.444 lr_architecture1=0.0025 time(s)=49
+ep=19 tr=['TIMIT_tr'] loss=1.044 err=0.324 valid=TIMIT_dev loss=1.618 err=0.444 lr_architecture1=0.0025 time(s)=50
+ep=20 tr=['TIMIT_tr'] loss=1.037 err=0.322 valid=TIMIT_dev loss=1.617 err=0.443 lr_architecture1=0.00125 time(s)=45
+ep=21 tr=['TIMIT_tr'] loss=1.036 err=0.322 valid=TIMIT_dev loss=1.616 err=0.444 lr_architecture1=0.00125 time(s)=45
+ep=22 tr=['TIMIT_tr'] loss=1.033 err=0.320 valid=TIMIT_dev loss=1.618 err=0.443 lr_architecture1=0.000625 time(s)=49
+ep=23 tr=['TIMIT_tr'] loss=1.032 err=0.321 valid=TIMIT_dev loss=1.619 err=0.444 lr_architecture1=0.000625 time(s)=49
+

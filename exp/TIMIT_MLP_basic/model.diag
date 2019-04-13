@@ -1,0 +1,9 @@
+blockdiag {
+0 [label="MLP_layers1",shape = box];
+1 [label="mfcc",shape = circle];
+2 [label="cost_nll",shape = roundedbox];
+3 [label="lab_cd",shape = roundedbox];
+1 -> 0 [label = "mfcc"]
+3 -> 2 [label = "lab_cd"]
+0 -> 2 [label = "out_dnn1"]
+}
